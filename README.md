@@ -1,4 +1,4 @@
-<h3 align="center">¡Hola, soy Julio!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">¡Hola, soy Julio! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="35"/></h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -32,8 +32,7 @@
 
 💻 **Pasión:**
 
-- **Español:** Me apasiona el desarrollo de software y la resolución de problemas ⚡
-- **Inglés:** I'm passionate about software development and problem solving ⚡
+-Me apasiona el desarrollo de software y la resolución de problemas ⚡
 
 🚀 ¡Con entusiasmo para aprender, crear y colaborar en proyectos tecnológicos innovadores!
 
@@ -98,9 +97,13 @@
   <b>Gracias por visitar mi perfil 💻 ¡Nos vemos en mis proyectos!</b>
 </p>
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julio3008&theme=algolia&no-frame=true&row=1&column=7" alt="Julio3008's GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Julio3008&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
 
 <br>
 

@@ -80,24 +80,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Julio3008">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Julio3008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julio3008&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julio3008&theme=algolia&hide_border=true" />
-</p>
-
-<p align="center">
-  <b>Gracias por visitar mi perfil 💻 ¡Nos vemos en mis proyectos!</b>
-</p>
+<div align="center">
+  <a href="https://github.com/Julio3008">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Julio3008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julio3008&layout=compact&langs_count=8&theme=algolia" width="48%"/>
+  </a>
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julio3008&theme=algolia&no-frame=true&row=1&column=7" alt="Julio3008's GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julio3008&theme=algolia&hide_border=true" alt="Julio3008's streak" width="70%"/>
 </div>
 
 <br>
@@ -107,6 +98,12 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julio3008&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
   </a>
 </div>
+
+<br>
+
+<p align="center">
+  <b>Gracias por visitar mi perfil 💻 ¡Nos vemos en mis proyectos!</b>
+</p>
 
 <br>
 

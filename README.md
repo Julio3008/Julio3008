@@ -87,10 +87,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julio3008&theme=algolia&hide_border=true" alt="Julio3008's streak" width="70%"/>
-</div>
-
 <br>
 
 <div align="center">

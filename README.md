@@ -1,99 +1,187 @@
-<h3 align="center">Hola, soy Julio<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="right"> <h3>Visitas al perfil:</h3> <img src="https://komarev.com/ghpvc/?username=Julio3008&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Julio3008" /> 
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=¡Hola!+Soy+Julio!;Estudiante+de+Ingeniería;de+Computación+y+Sistemas" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-	
-👋 ¡Hola! Bienvenidos a mi perfil profesional de GitHub. Soy estudiante de Ingeniería de Computación y Sistemas, apasionado por la tecnología y el desarrollo de software. Siempre en busca de nuevos conocimientos y oportunidades para crecer profesionalmente. 🚀
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-</h3>
+<div align="center">
+  <img src="https://github.com/Julio3008/Julio3008/blob/main/assets/banner-julio.png?raw=true" width="100%" alt="Banner"/>
+</div>
 
-<br> </br>
-👨🏻‍💻 &nbsp;Sobre mí
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Julio3008&label=Visitas+al+perfil&color=brightgreen&style=for-the-badge" alt="Julio3008" /> 
+</p>
 
-👨 **Mi nombre:** Julio  
-🎂 **Edad:** 20 años  
-🌍 **Origen:** Perú 🇵🇪  
-🎓 **Estudios:** Ingeniería de Computación y Sistemas  
-📚 **Universidad:** Universidad San Martín de Porres  
-📊 **Ciclo actual:** 8vo ciclo
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+  Sobre mí
+</h2>
 
-🌟 **Idiomas:**
-
-- 🏅 Español (Nativo)
-- 🌐 Inglés (Intermedio)
-
-💻 **Pasión:**
-
-- Me encanta la programación y el desarrollo de soluciones tecnológicas ⚡
-- Disfruto aprendiendo nuevas tecnologías y metodologías de desarrollo 🔍
-
-🚀 Comprometido con el aprendizaje continuo y el desarrollo de soluciones tecnológicas que marquen la diferencia.
-
-### 🛠 &nbsp;Tecnologías
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-
-### 🗃 &nbsp;Bases de Datos
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-&emsp;
-
-### 🧰 &nbsp;Herramientas y Control de Versiones
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
-  </p>
-
-### 🌐 &nbsp;Conéctate conmigo
+<div align="center">
+  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/julio3008/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="julio3008" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Julio3008" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-         alt="julio3008" height="30" width="40" />
-  </a>
+  Soy estudiante de Ingeniería de Computación y Sistemas, apasionado por la tecnología y el desarrollo de software. Siempre en busca de nuevos conocimientos y oportunidades para crecer profesionalmente. 🚀
 </p>
 
-### ⚙️ &nbsp;Estadísticas de GitHub
-
-<p align="center">
-<a href="https://github.com/Julio3008">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Julio3008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julio3008&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
-### 🔥 &nbsp;Racha de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julio3008&theme=tokyonight" alt="Julio3008" />
-</p>
-
-<p align="center">
-  <b>Gracias por visitar mi perfil 💻 ¡Nos vemos en mis proyectos!</b>
-</p>
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 <br>
+
+### 📊 Información Personal
+
+<table>
+  <tr>
+    <td>👨 <b>Nombre:</b></td>
+    <td>Julio</td>
+  </tr>
+  <tr>
+    <td>🎂 <b>Edad:</b></td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>🌍 <b>País:</b></td>
+    <td>Perú 🇵🇪</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Estudios:</b></td>
+    <td>Ingeniería de Computación y Sistemas</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Universidad:</b></td>
+    <td>Universidad San Martín de Porres</td>
+  </tr>
+  <tr>
+    <td>📊 <b>Ciclo actual:</b></td>
+    <td>8vo ciclo</td>
+  </tr>
+</table>
+
+### 🌟 Idiomas
+
+<table>
+  <tr>
+    <td>🏅 <b>Español:</b></td>
+    <td>Nativo</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Inglés:</b></td>
+    <td>Intermedio</td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  Habilidades Técnicas
+</h2>
+
+<div align="center">
+  <h3>💻 Lenguajes de Programación</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+  </p>
+  
+  <h3>🌐 Desarrollo Web</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  </p>
+  
+  <h3>🗃️ Bases de Datos</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  </p>
+  
+  <h3>🛠️ Herramientas</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  Conéctate conmigo
+</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/julio3008/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://github.com/Julio3008" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="mailto:julio3008@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  Estadísticas de GitHub
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julio3008&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio3008&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julio3008&theme=radical" alt="Racha de contribuciones" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="30">
+  Actividad en GitHub
+</h2>
+
+<div align="center">
+  <img src="https://github.com/Julio3008/Julio3008/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <h3>💭 Frase favorita</h3>
+  <p><i>"El código es como el humor. Cuando tienes que explicarlo, es malo."</i> - Cory House</p>
+</div>
+
+<div align="center">
+  <h3>¡Gracias por visitar mi perfil! 👨‍💻</h3>
+  <p>No dudes en contactarme para colaboraciones o proyectos interesantes.</p>
+  <img src="https://profile-counter.glitch.me/Julio3008/count.svg" alt="Contador de visitas" />
+</div>
 
 Credits: [Julio3008](https://github.com/Julio3008)

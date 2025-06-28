@@ -1,4 +1,4 @@
-<h3 align="center">¡Hola, soy Julio! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="35"/></h3>
+<h3 align="center">¡Hola, soy Julio! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

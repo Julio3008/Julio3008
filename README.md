@@ -100,8 +100,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Julio3008&theme=algolia&no-frame=true&row=1&column=7" alt="Julio3008's GitHub Trophies" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Julio3008&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julio3008&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
+  </a>
 </div>
 
 <br>
